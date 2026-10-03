@@ -307,7 +307,7 @@ function App() {
               </div>
               <div className="contact-row">
                 <div className="contact-icon"><Phone size={19} /></div>
-                <div><span>PHONE</span><strong>+234 810 772 9353 · +234 813 559 2806</strong></div>
+                <div><span>PHONE</span><strong>+234 810 772 9353 | +234 813 559 2806</strong></div>
               </div>
               <div className="contact-row">
                 <div className="contact-icon"><Clock3 size={19} /></div>
