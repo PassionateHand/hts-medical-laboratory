@@ -130,7 +130,7 @@ function App() {
       <main id="home">
         <section className="hero">
           <div className="hero-media">
-            <img src="/assets/hero-lab.jpg" alt="Laboratory professionals working with diagnostic equipment" />
+            <img src="https://res.cloudinary.com/dzzl28aef/image/upload/v1791053202/hero-lab_w5javb.jpg" alt="Laboratory professionals working with diagnostic equipment" />
           </div>
           <div className="hero-overlay" />
           <div className="container hero-content">
